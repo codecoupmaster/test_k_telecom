@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "CeraRoundPro-Bold";
+  font-weight: 700;
+  font-style: normal;
+  line-height: 150%; /* 45px */
+  letter-spacing: 0.6px;
+  src: url("../fonts/CeraRoundPro-Bold.woff") format("woff");
+}
+@font-face {
+  font-family: "CeraRoundPro-Medium";
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 200%; /* 32px */
+  letter-spacing: 0.28px;
+  src: url("../fonts/CeraRoundPro-Medium.woff") format("woff");
+}
+@font-face {
+  font-family: "OpenSans-Regular";
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 200%; /* 32px */
+  letter-spacing: 0.32px;
+  src: url("../fonts/OpenSans-Regular.woff") format("woff");
+}
